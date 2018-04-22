@@ -1,5 +1,4 @@
-# emoji-list
-emoji表情列表
+# emoji表情列表
 
 [![](https://img.shields.io/github/issues/javef/markdown.svg)](https://github.com/javef/markdown/issues)
 [![](https://img.shields.io/github/forks/javef/markdown.svg)](https://github.com/javef/markdown/network) 
