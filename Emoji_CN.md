@@ -1,11 +1,11 @@
 # emoji-list
 emoji表情列表
 
-[![](https://img.shields.io/github/issues/javef/emoji-list.svg)](https://github.com/javef/markdown/issues)
-[![](https://img.shields.io/github/forks/javef/emoji-list.svg)](https://github.com/javef/markdown/network) 
-[![](https://img.shields.io/github/stars/javef/emoji-list.svg)](https://github.com/javef/markdown/stargazers)
-[![](https://travis-ci.org/javef/emoji-list.svg?branch=master)](https://travis-ci.org/javef/markdown/)
-[![](https://img.shields.io/github/release/javef/emoji-list.svg)](https://github.com/javef/markdown/releases)
+[![](https://img.shields.io/github/issues/javef//markdown.svg)](https://github.com/javef/markdown/issues)
+[![](https://img.shields.io/github/forks/javef//markdown.svg)](https://github.com/javef/markdown/network) 
+[![](https://img.shields.io/github/stars/javef//markdown.svg)](https://github.com/javef/markdown/stargazers)
+[![](https://travis-ci.org/javef//markdown.svg?branch=master)](https://travis-ci.org/javef/markdown/)
+[![](https://img.shields.io/github/release/javef//markdown.svg)](https://github.com/javef/markdown/releases)
 
 目录
 
