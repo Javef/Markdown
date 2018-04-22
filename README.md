@@ -616,8 +616,8 @@ cond(no)->sub->io
 
 >Github中的emoji表情  
 Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情。  
->比如 `:blush:`，可以显示 ![image](http://upload-images.jianshu.io/upload_images/9934558-0b3ed735390e21a8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
-  **更多表情符号点这里：**[emoji](https://github.com/Javef/README/blob/master/emoji.md "visit javef's Github")
+>比如 `:blush:`，可以显示 :blush: 
+  **更多表情符号点这里：**[emoji](https://github.com/Javef/README/blob/master/emoji.md)
 
 
 ---
